@@ -15,8 +15,3 @@ class Product {
         
     }
 }
-
-class Food extends Product {
-    public $type;
-    public $expire_date;
-}

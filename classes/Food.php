@@ -12,6 +12,7 @@ class Food extends Product {
 
         $this->type = $_type;
         $this->expire_date = $_expire_date;
+        
 
     }
 }
